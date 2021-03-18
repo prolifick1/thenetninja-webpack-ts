@@ -1,0 +1,25 @@
+{
+  "name": "thenetninja-webpack-ts",
+  "version": "1.0.0",
+  "description": "TODO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prolifick1/thenetninja-webpack-ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prolifick1/thenetninja-webpack-ts/issues"
+  },
+  "homepage": "https://github.com/prolifick1/thenetninja-webpack-ts#readme",
+  "devDependencies": {
+    "ts-loader": "^8.0.18",
+    "typescript": "^4.2.3",
+    "webpack": "^5.26.3",
+    "webpack-cli": "^4.5.0"
+  }
+}
